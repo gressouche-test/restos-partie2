@@ -11,6 +11,7 @@ include_once "$racine/modele/bd.resto.inc.php";
 $listeRestos = getRestos();
 
 // traitement si necessaire des donnees recuperees
+// COMMENTAIRE INUTILE
 ;
 
 // appel du script de vue qui permet de gerer l'affichage des donnees
